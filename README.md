@@ -12,7 +12,7 @@
 
 ## Olá, surfdevs!
 
-Tenho 28 anos, moro em Guarujá SP sou apaixonado por progamação e surf! Atualmente estou estudando e a cada dia que passa me apaixona ainda mais pelo o universo da programação.
+Tenho 28 anos, moro em Guarujá litoral de SP sou apaixonado por progamação e surf! Atualmente estou estudando e a cada dia que passa me apaixona ainda mais pelo o universo da programação.
 
 
 <p align="center">
@@ -26,7 +26,7 @@ Tenho 28 anos, moro em Guarujá SP sou apaixonado por progamação e surf! Atual
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="70"  height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="70"  height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"  height="70"/>
 
-## Atualmente estou estudando
+### Atualmente estou estudando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70"  height="70"/>
 
 
