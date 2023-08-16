@@ -36,11 +36,11 @@
    <footer>
       <div display="block" align="center">
             <h3 style="background-color: gray">Rede Sociais:</h3>
-            <a href="https://www.instagram.com/victorrpaivas"  target="_blank" class="externo>
+            <a href="https://www.instagram.com/victorrpaivas" target="_blank">
                 <img width="40px" src="https://i.ibb.co/qxN0jv5/instagram.png" alt="instagram"
                     style="vertical-align:top;">
             </a>
-            <a href="https://www.linkedin.com/in/victor-silva-663127163"  target="_blank" class="externo>
+            <a href="https://www.linkedin.com/in/victor-silva-663127163" target="_blank">
                 <img width="40px" src="https://i.ibb.co/HN7bG6J/linkedin.png" alt="linkedin" style="vertical-align:top;">
             </a>
      </div>
