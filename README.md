@@ -6,7 +6,7 @@
 <article>
   <h2>Olá, surfdevs! 🏄🏻‍♂️</h2> 
 
-<p>Tenho 28 anos, moro em Guarujá litoral de SP sou apaixonado por progamação e surf! Atualmente trabalho fora do ramo da tecnologia mas com a tecnologia como Avaliador Veicular 🕵🏻‍♂️🚗 em uma concessionária Nissan o que me levou a curiosidade 🔍 de como funcionava o App que usamos para cadastrar, avaliar e precificar os veículos e foi ai que conheci a progamação, estou estudando linguagem de progamação e a cada dia que passa me apaixono (surto as vezes rs) ainda mais pelo o universo da programação.</p>
+<p>Tenho 28 anos, moro em Guarujá litoral de SP sou apaixonado por progamação e surf! Atualmente trabalho fora do ramo da tecnologia mas com a tecnologia AutoAvaliar como Avaliador Veicular 🕵🏻‍♂️🚗 em uma concessionária Nissan o que me levou a curiosidade 🔍 de como funcionava o App que usamos para cadastrar, avaliar e precificar os veículos e foi ai que conheci a progamação, estou estudando linguagem de progamação e a cada dia que passa me apaixono (surto as vezes rs) ainda mais pelo o universo da programação.</p>
 
   <p align="center"><img src="https://i.makeagif.com/media/7-05-2015/8SLHO1.gif" width="350"></p>
 
