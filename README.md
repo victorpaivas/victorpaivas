@@ -49,8 +49,8 @@ Tenho 28 anos, moro em Guarujá litoral de SP sou apaixonado por progamação e 
 
 ## 🏗 Principais Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorpaivas&repo=victorpaivas.github.io&theme=gotham)](https://github.com/victorpaivas/victorpaivas.github.io) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorpaivas&repo=calculadoraimc-js&theme=gotham)](https://github.com/victorpaivas/calculadoraimc-js)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorpaivas&repo=projeto-navbar&theme=gotham)](https://github.com/victorpaivas/projeto-navbar)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorpaivas&repo=victorpaivas.github.io&theme=gotham)](https://github.com/victorpaivas/victorpaivas.github.io)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorpaivas&repo=calculadoraimc-js&theme=gotham)](https://github.com/victorpaivas/calculadoraimc-js)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=victorpaivas&repo=Imers-o-Alura-Spotify-LadingPage&theme=gotham)](https://github.com/victorpaivas/Imers-o-Alura-Spotify-LadingPage)
 
 </div>
